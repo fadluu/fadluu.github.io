@@ -1,11 +1,7 @@
 <!doctype html>
 
 <html lang="en">
-   
-   
     <head>
-       
-       
         <!-- META -->
         <meta charset="utf-8">
         <meta name="robots" content="noodp">
@@ -34,10 +30,8 @@ body
     font-family: 'Arapey', serif;
     font-weight: 300;
     font-style: normal;
-
     color: #000;
     background: #fff;
-
     -webkit-font-smoothing: antialiased;
 }
 
@@ -50,9 +44,7 @@ h6
 {
     font-family: 'Abril Fatface', cursive;
     font-weight: normal;
-
     letter-spacing: .05em;
-
     color: #000;;
 }
 
@@ -164,6 +156,43 @@ a:hover
     opacity: 1;
     border-radius: 100%;
     background-color: #111;
+}
+.preloader.hide-preloader .spinner
+{
+    opacity: 0;
+    
+    -webkit-transition: .3s ease;
+         -o-transition: .3s ease;
+            transition: .3s ease;
+}
+
+@-webkit-keyframes spinner-pulse
+{
+    0%
+    {
+        -webkit-transform: scale(0);
+    }
+    100%
+    {
+        -webkit-transform: scale(1.0);
+
+        opacity: 0;
+    }
+}
+@keyframes spinner-pulse
+{
+    0%
+    {
+        -webkit-transform: scale(0);
+                transform: scale(0);
+    }
+    100%
+    {
+        -webkit-transform: scale(1.0);
+                transform: scale(1.0);
+
+        opacity: 0;
+    }
 }
 
 
