@@ -1,5 +1,5 @@
 
-
+![FB_IMG_16299227853464814](https://user-images.githubusercontent.com/96899293/148060088-103f98ae-b736-4a07-85c7-5d1b09a1cc30.jpg)
 
 ## Fadlu Rahman Faruuq
 ### fakyu kalain semua
