@@ -1,8 +1,8 @@
 
 
 
-##Fadlu Rahman Faruuq
-###fakyu kalain semua
+## Fadlu Rahman Faruuq
+### fakyu kalain semua
 
 ##About me
 ```markdown
