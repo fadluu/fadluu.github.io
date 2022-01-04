@@ -4,7 +4,7 @@
 ## Fadlu Rahman Faruuq
 ### fakyu kalain semua
 
-##About me
+## About me
 ```markdown
 Syntax highlighted code block
 
